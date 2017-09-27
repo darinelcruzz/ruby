@@ -1,0 +1,3 @@
+No tengo idea de para qué estoy aprendiendo Ruby.
+También estoy aprendiendo Python pero sí sé para qué.
+Es para luego programar un bot en Telegram.
